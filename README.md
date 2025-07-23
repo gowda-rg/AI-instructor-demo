@@ -4,6 +4,10 @@
 This repository contains a structured demo submission for the **AI Instructor role at Tutedude**. It explores fundamental and advanced concepts around **AI Alignment** and **Prompt Engineering**, demonstrating technical understanding and the ability to communicate clearly and effectively.
 
 ---
+## 🎬 Demo Video
+
+Watch the full walkthrough here:  
+👉 [https://screenrec.com/share/H5JwU9zSup](https://screenrec.com/share/H5JwU9zSup)
 
 ## 🧠 What’s Inside
 
