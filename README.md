@@ -1,7 +1,7 @@
 
-# AI Instructor Demo – Tutedude
+# AI Instructor Demo
 
-This repository contains a structured demo submission for the **AI Instructor role at Tutedude**. It explores fundamental and advanced concepts around **AI Alignment** and **Prompt Engineering**, demonstrating technical understanding and the ability to communicate clearly and effectively.
+This repository contains a structured demo for the **AI Instructor role **. It explores fundamental and advanced concepts around **AI Alignment** and **Prompt Engineering**, demonstrating technical understanding and the ability to communicate clearly and effectively.
 
 ---
 ## 🎬 Demo Video
